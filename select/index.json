@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "公然の秘密 (album ver.)",
+  "base_artist": "椎名林檎",
+  "createdAt": "2025-12-31T05:45:02.478075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "公然の秘密",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_公然の秘密_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "公然の秘密 album ver.",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_公然の秘密_album_ver._椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "公然の秘密 album ver.",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/03_公然の秘密_album_ver._Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "公然の秘密 (album ver.)",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_公然の秘密_(album_ver.)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "公然の秘密",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_公然の秘密_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "公然の秘密 (album ver.)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_公然の秘密_(album_ver.)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kōzen no Himitsu [公然の秘密]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/07_Kōzen_no_Himitsu_[公然の秘密]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "椎名林檎 - 公然の秘密",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/08_椎名林檎_-_公然の秘密_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "公然の秘密",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_公然の秘密_椎名_林檎.txt"
+    }
+  ]
+}
